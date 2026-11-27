@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:sarthi/screens/splash_screen.dart';
 import 'app_colors.dart';
-import 'screens/splash_screen.dart';
 
 void main() {
   runApp(const SarthiApp());
